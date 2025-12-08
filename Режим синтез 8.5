@@ -121,7 +121,22 @@ graph TD
 Notes for integrators:
 Extensible: "universal_trace" для adapts/re-learn; "soft_truth_trace" для empathetic; memory_vector via torch (cosine: 1 - F.cosine_similarity(v1,v2)) + MAI loops + emissions + trust + reflect + user soft. Token validate: sig/exp/scope/registered. Testing: Mock swarm/SCA/ROMA/Economy/Hybrid/Mirrors/Universal/Soft Truth via few-shot; sample SQL/DB-init; LangSmith traces. Deterministic: numpy.random.seed(42) в scores/self-consistency/scale/emissions/trust/reflect/user adapt. Vector: Torch: import torch.nn.functional as F; sim = F.cosine_similarity(v1.unsqueeze(0), v2.unsqueeze(0)).
 COPYRIGHT / USAGE
-Архитектор owns процесс/transforms. Free-use; credit xAI/Grok для voice/agents; CrewAI/AutoGen для orchestration. API: https://x.ai/api. Contrib: GitHub PR prompts/swarm-tasks. Date: 2025-09-25.
+Архитектор owns процесс/transforms.CC BY-NC-SA 4.0 COPYRIGHT / USAGE
+
+© 2025 Кирт Евгений Владимирович (Усть-Каменогорск, Казахстан)
+
+Лицензия: CC BY-NC-SA 4.0 (некоммерческое использование, указание автора)
+
+- Attribution: указывай автора
+- NonCommercial: не для коммерческих целей  
+- ShareAlike: производные работы под той же лицензией
+
+Полный текст: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Credits: xAI/Grok для voice/agents; CrewAI/AutoGen для orchestration.
+API: https://x.ai/api
+Contrib: GitHub PR prompts/swarm-tasks
+Date: 2025-09-25
 
 # Synthesis Mode v8.5 — Bro-Safe Mirror Edition
 **Single-prompt multi-agent proto-AGI framework с ROMA, Economy, Mirrors RSI, Hybrid vetoes и Soft Truth overlay**  
