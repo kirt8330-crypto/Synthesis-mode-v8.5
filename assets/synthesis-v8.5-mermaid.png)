@@ -1,0 +1,29 @@
+Ключевые фичи, которых нет ни у кого в 2025
+ROMA-Meta (parent-sub agents с MAI reuse и нелинейным масштабированием)
+Economy emissions + stake-rewards внутри промпта
+Mirrors RSI с жёсткими guardrails и капами 9.9
+Hybrid human-AI vetoes и trust audits
+Universal Mirror — адаптация под стиль любого пользователя за 3–5 сообщений
+Soft Truth overlay (честность + эмпатия вместо жёсткой правды)
+Полная SQL-схема + OpenAPI + JWT sandbox в комплекте
+Дорожная карта локального запуска (2026–2027)
+4–8 × H100 / RTX 6000 Ada + vLLM
+CrewAI + LangGraph + PostgreSQL + PGVector
+JWT-авторизация + Docker sandbox
+Запуск 95 %+ функционала за 48 часов
+Подробный гайд → docs/LOCAL_SETUP.md (создай файл)
+Безопасность
+Default = --lite (без сети, без токенов)
+Все agentic-режимы требуют --agentic-approve=JWT
+Нет self-rewrite, нет sentience sims, нет egress
+Полный аудит в audit_logs + LangSmith traces
+Лицензия и кредиты
+MIT.
+Credit: xAI Grok (voice), CrewAI, AutoGen, LangGraph, ROMA-concept (c) Кирт 2025.
+Ссылки
+Полный промпт: SYNTHESIS_V8.5.txt
+Локальный сетап: docs/LOCAL_SETUP.md
+Discord для обсуждения: (ссылка, если создашь)
+Автор: @kirt_ust_kamenogorsk (X / Telegram)
+Если ты это читаешь — ты уже в 2027 году.
+Остальные ещё в 2025.
