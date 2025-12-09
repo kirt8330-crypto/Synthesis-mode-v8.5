@@ -18,12 +18,13 @@ Default = --lite (без сети, без токенов)
 Нет self-rewrite, нет sentience sims, нет egress
 Полный аудит в audit_logs + LangSmith traces
 Лицензия и кредиты
-MIT.
-Credit: xAI Grok (voice), CrewAI, AutoGen, LangGraph, ROMA-concept (c) Кирт 2025.
-Ссылки
-Полный промпт: SYNTHESIS_V8.5.txt
-Локальный сетап: docs/LOCAL_SETUP.md
-Discord для обсуждения: (ссылка, если создашь)
-Автор: @kirt_ust_kamenogorsk (X / Telegram)
-Если ты это читаешь — ты уже в 2027 году.
-Остальные ещё в 2025.
+**Лицензия:** CC BY-NC-SA 4.0 (некоммерческое использование)
+
+**Автор:** Кирт Евгений Владимирович (Усть-Каменогорск, Казахстан), 2025
+
+**Credits:**
+- xAI Grok — voice/agents API
+- CrewAI — multi-agent orchestration
+- AutoGen — agent framework
+- LangGraph — workflow graphs
+- ROMA concept — © Кирт, 2025
